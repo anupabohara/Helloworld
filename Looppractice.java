@@ -74,7 +74,7 @@ public class Looppractice {
 //		
 //		if (data % 2 == 0) {
 //			System.out.println("Even"); 
-//			System.out.println("hello");
+//			System.out.println("hi");
 //		}
 //			
 //		else {
